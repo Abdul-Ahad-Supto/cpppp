@@ -1,0 +1,10 @@
+﻿  scene.cpp
+C:\Users\USER\Documents\GitHub\cpppp\assig-base2022\basicsource\constants.h(25,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/basicsource/scene.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpppp\assig-base2022\basicsource\constants.h(26,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/basicsource/scene.cpp')
+  
+  Generating code
+  Finished generating code
+  assig2.vcxproj -> C:\Users\USER\Documents\GitHub\cpppp\assig-base2022\build\assig2.exe

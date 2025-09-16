@@ -111,6 +111,12 @@
     <ClInclude Include="objects-standard\terrain.h" />
     <ClInclude Include="objects-standard\torus.h" />
     <ClInclude Include="objects-standard\tsphere.h" />
+    <ClInclude Include="objects-student\cart.h" />
+    <ClInclude Include="objects-student\pyramid.h" />
+    <ClInclude Include="objects-student\shape.h" />
+    <ClInclude Include="objects-student\tcube.h" />
+    <ClInclude Include="objects-student\Composite1.h" />
+    <ClInclude Include="objects-student\Composite2.h" />
     <ClInclude Include="support\camera.h" />
     <ClInclude Include="support\face.h" />
     <ClInclude Include="support\fog.h" />
@@ -151,6 +157,12 @@
     <ClCompile Include="objects-standard\terrain.cpp" />
     <ClCompile Include="objects-standard\torus.cpp" />
     <ClCompile Include="objects-standard\tsphere.cpp" />
+    <ClCompile Include="objects-student\cart.cpp" />
+    <ClCompile Include="objects-student\pyramid.cpp" />
+    <ClCompile Include="objects-student\shape.cpp" />
+    <ClCompile Include="objects-student\tcube.cpp" />
+    <ClCompile Include="objects-student\Composite1.cpp" />
+    <ClCompile Include="objects-student\Composite2.cpp" />
     <ClCompile Include="support\camera.cpp" />
     <ClCompile Include="support\face.cpp" />
     <ClCompile Include="support\fog.cpp" />

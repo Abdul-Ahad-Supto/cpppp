@@ -1,0 +1,14 @@
+// Car bumper extrusion path
+// Commands: p=print, m=move, s=scale, x/y/z=rotate
+p
+m 0.5
+p
+y 15 0
+m 0.3
+p
+y 15 0
+m 0.3
+p
+y 15 0
+m 0.5
+p

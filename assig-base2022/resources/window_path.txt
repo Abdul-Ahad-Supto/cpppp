@@ -1,0 +1,14 @@
+// Window frame extrusion path
+// Commands: p=print, m=move, s=scale, x/y/z=rotate
+p
+m 0.1
+s 0.9 0.9
+p
+m 0.1
+s 0.8 0.8
+p
+m 0.1
+s 0.9 0.9
+p
+m 0.1
+p
